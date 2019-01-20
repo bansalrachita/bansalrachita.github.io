@@ -1,0 +1,1 @@
+{"data":{"markdownRemark":{"html":"<p>This is my third post.</p>","frontmatter":{"title":"My third post"}}},"pageContext":{"pathSlug":"/third-post","prev":{"frontmatter":{"path":"/second-post"}},"next":{"frontmatter":{"path":"/fourth-post"}}}}
