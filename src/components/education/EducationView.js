@@ -16,21 +16,23 @@ const EducationView = () => {
                 M.S. in Information Systems, Northeastern University
             </h3>
             <p>
-                @Northeastern, I got the opportunity to work on various technologies and with people
-                from
-                different
+                Here, I got the opportunity to work on various technologies and with people from different
                 backgrounds. Here are links to more interesting projects I did-
+            </p>
+            <ul>
                 {
                     projectLinks.map((link, index) => (
-                        <a href={link.value}
-                           target="_blank"
-                           rel="noopener noreferrer"
-                           key={index}>
-                            {`${link.key}, `}
-                        </a>
+                        <li key={`li-`+ index}>
+                            <a href={link.value}
+                               target="_blank"
+                               rel="noopener noreferrer"
+                               key={index}>
+                                {`${link.key}, `}
+                            </a>
+                        </li>
                     ))
                 }
-            </p>
+            </ul>
             <Badges badges={eduBadges}/>
             <hr/>
             <h3>
