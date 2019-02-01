@@ -1,6 +1,5 @@
 import React from "react"
 import {graphql, Link} from "gatsby";
-import Header from "../components/Header.js";
 
 const Layout = ({data}) => {
     const {edges} = data.allMarkdownRemark;
