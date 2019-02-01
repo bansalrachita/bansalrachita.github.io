@@ -1,0 +1,1720 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a2b9346373e5c3b86e5c28de334a6108",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "180e73ab6d6be09c19405fd9e8414527",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ed8eee8985b8d0985fe733ffda6a86bb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "96787e15f43f7e93045a0b4c0e64ec28",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c8471286813048b6e89bf747f181b11d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0902751d83e2af8e17e474aae4ab96f3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6b3a58ee5e41e5b12bd3d055fbeaba43",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
+      "resolve": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby-transformer-remark",
+      "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.1-rc.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.1-rc.5",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "db619a6ec3d9e9ed044235fb478504e4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1a320b1c9faac7b7f9d652c804e3ca82",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "3f471ef8-8ef6-5120-b915-ef6bc6b6ccb5": {
+      "resolve": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby-source-filesystem",
+      "id": "3f471ef8-8ef6-5120-b915-ef6bc6b6ccb5",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.1-rc.6",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "pages",
+        "path": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.1-rc.6",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3e0eb95681da0ae5011c8fdeeef77ace",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "a81931346bb89476a8859ca6b50e10e2",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio",
+      "packageJson": {
+        "name": "gatsby-starter-hello-world",
+        "description": "A simplified bare-bones starter for Gatsby",
+        "version": "0.1.0",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.76"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.5"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.1-rc.6"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.1-rc.5"
+          },
+          {
+            "name": "react",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "serve",
+            "version": "^10.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "gh-pages",
+            "version": "^2.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "88872f648e765e50d88dfb8a0a0e9d9f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "23f512ca-281f-5b86-9cf4-b2e5ec4d8999": {
+      "resolve": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby-plugin-page-creator",
+      "id": "23f512ca-281f-5b86-9cf4-b2e5ec4d8999",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e8cb2a5c5a657a5da5ca6408fe40b133",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "My Website",
+        "description": "This is my official website",
+        "url": "https://bansalrachita.github.io/",
+        "image": "/pages/images/image5.jpg"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "/my-portfolio",
+      "polyfill": true,
+      "buildTime": "2019-02-01T03:07:56.378Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f1928e132e85f9962e22ed9d8339a726",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "78006dbf-1b0b-5771-8440-89d6a5671e0e": {
+      "id": "78006dbf-1b0b-5771-8440-89d6a5671e0e",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "22ba01d17aae7ef60e42e34598c5bde7",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2019-02-01T02:36:50.101Z",
+      "accessTime": "2019-02-01T03:07:58.683Z",
+      "changeTime": "2019-02-01T02:36:50.101Z",
+      "birthTime": "2019-01-17T23:41:46.126Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 7,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5843334,
+      "blocks": 0,
+      "atimeMs": 1548990478683.3823,
+      "mtimeMs": 1548988610100.8037,
+      "ctimeMs": 1548988610100.8037,
+      "birthtimeMs": 1547768506125.5845,
+      "atime": "2019-02-01T03:07:58.683Z",
+      "mtime": "2019-02-01T02:36:50.101Z",
+      "ctime": "2019-02-01T02:36:50.101Z",
+      "birthtime": "2019-01-17T23:41:46.126Z"
+    },
+    "0a6adc0b-0035-5e14-bcfe-7e76142e5fd5": {
+      "id": "0a6adc0b-0035-5e14-bcfe-7e76142e5fd5",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "22322fd9ef3b55de171002cecbf4e8e9",
+        "type": "Directory",
+        "description": "Directory \"src/pages/education\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/education",
+      "relativePath": "education",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-01-28T01:05:57.277Z",
+      "accessTime": "2019-02-01T03:07:58.686Z",
+      "changeTime": "2019-01-28T01:05:57.277Z",
+      "birthTime": "2019-01-27T21:15:39.877Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages",
+      "base": "education",
+      "ext": "",
+      "name": "education",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6409986,
+      "blocks": 0,
+      "atimeMs": 1548990478686.447,
+      "mtimeMs": 1548637557277.16,
+      "ctimeMs": 1548637557277.16,
+      "birthtimeMs": 1548623739876.9382,
+      "atime": "2019-02-01T03:07:58.686Z",
+      "mtime": "2019-01-28T01:05:57.277Z",
+      "ctime": "2019-01-28T01:05:57.277Z",
+      "birthtime": "2019-01-27T21:15:39.877Z"
+    },
+    "e7bd675f-e04e-50e4-8d14-2fcd9b991d84": {
+      "id": "e7bd675f-e04e-50e4-8d14-2fcd9b991d84",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7de8a69368f63088984b9f850b719eaf",
+        "type": "Directory",
+        "description": "Directory \"src/pages/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images",
+      "relativePath": "images",
+      "extension": "",
+      "size": 352,
+      "prettySize": "352 B",
+      "modifiedTime": "2019-01-27T19:33:30.997Z",
+      "accessTime": "2019-02-01T03:07:58.686Z",
+      "changeTime": "2019-01-28T00:53:26.073Z",
+      "birthTime": "2019-01-20T22:26:14.506Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 11,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5973173,
+      "blocks": 0,
+      "atimeMs": 1548990478686.4155,
+      "mtimeMs": 1548617610997.2976,
+      "ctimeMs": 1548636806072.5872,
+      "birthtimeMs": 1548023174505.8818,
+      "atime": "2019-02-01T03:07:58.686Z",
+      "mtime": "2019-01-27T19:33:30.997Z",
+      "ctime": "2019-01-28T00:53:26.073Z",
+      "birthtime": "2019-01-20T22:26:14.506Z"
+    },
+    "f280172d-e1ca-5850-baa4-26ff1c955594": {
+      "id": "f280172d-e1ca-5850-baa4-26ff1c955594",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bf21492991f2c51cbac213a1a49fb244",
+        "type": "Directory",
+        "description": "Directory \"src/pages/work\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/work",
+      "relativePath": "work",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-01-28T01:05:57.275Z",
+      "accessTime": "2019-02-01T03:07:58.686Z",
+      "changeTime": "2019-01-28T01:05:57.275Z",
+      "birthTime": "2019-01-27T21:14:59.487Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages",
+      "base": "work",
+      "ext": "",
+      "name": "work",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6409957,
+      "blocks": 0,
+      "atimeMs": 1548990478686.4001,
+      "mtimeMs": 1548637557275.442,
+      "ctimeMs": 1548637557275.442,
+      "birthtimeMs": 1548623699487.4895,
+      "atime": "2019-02-01T03:07:58.686Z",
+      "mtime": "2019-01-28T01:05:57.275Z",
+      "ctime": "2019-01-28T01:05:57.275Z",
+      "birthtime": "2019-01-27T21:14:59.487Z"
+    },
+    "7c7543d1-32f1-53ed-841b-be4ea9c5f421": {
+      "id": "7c7543d1-32f1-53ed-841b-be4ea9c5f421",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "94bc8b756a6c61544e9ca109172db4ee",
+        "type": "Directory",
+        "description": "Directory \"src/pages/summary\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/summary",
+      "relativePath": "summary",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-02-01T01:25:11.711Z",
+      "accessTime": "2019-02-01T03:07:58.686Z",
+      "changeTime": "2019-02-01T01:25:11.711Z",
+      "birthTime": "2019-01-27T21:16:01.085Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages",
+      "base": "summary",
+      "ext": "",
+      "name": "summary",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6410006,
+      "blocks": 0,
+      "atimeMs": 1548990478686.4287,
+      "mtimeMs": 1548984311710.8833,
+      "ctimeMs": 1548984311710.8833,
+      "birthtimeMs": 1548623761084.9656,
+      "atime": "2019-02-01T03:07:58.686Z",
+      "mtime": "2019-02-01T01:25:11.711Z",
+      "ctime": "2019-02-01T01:25:11.711Z",
+      "birthtime": "2019-01-27T21:16:01.085Z"
+    },
+    "6a23d9c9-2198-5c1b-965a-0c684c1b545b": {
+      "id": "6a23d9c9-2198-5c1b-965a-0c684c1b545b",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f1ac5fcc4c935eceb49769e61cb47a11",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 2036,
+      "prettySize": "2.04 kB",
+      "modifiedTime": "2019-02-01T02:36:50.100Z",
+      "accessTime": "2019-02-01T02:40:21.741Z",
+      "changeTime": "2019-02-01T02:36:50.101Z",
+      "birthTime": "2019-02-01T02:36:50.099Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6581538,
+      "blocks": 8,
+      "atimeMs": 1548988821740.812,
+      "mtimeMs": 1548988610099.5532,
+      "ctimeMs": 1548988610100.6628,
+      "birthtimeMs": 1548988610099.351,
+      "atime": "2019-02-01T02:40:21.741Z",
+      "mtime": "2019-02-01T02:36:50.100Z",
+      "ctime": "2019-02-01T02:36:50.101Z",
+      "birthtime": "2019-02-01T02:36:50.099Z"
+    },
+    "ed03764f-3f6c-514e-81b4-feb87b330d84": {
+      "id": "ed03764f-3f6c-514e-81b4-feb87b330d84",
+      "children": [
+        "482b46c2-bfb8-5232-9d27-99f2fadc7b59"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "211da67fff23408ec194b2a8b12a0b2f",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/work/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/work/index.md",
+      "relativePath": "work/index.md",
+      "extension": "md",
+      "size": 45,
+      "prettySize": "45 B",
+      "modifiedTime": "2019-01-28T01:05:57.275Z",
+      "accessTime": "2019-02-01T02:44:30.084Z",
+      "changeTime": "2019-01-28T01:05:57.275Z",
+      "birthTime": "2019-01-28T01:05:57.275Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/work",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "work",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6444652,
+      "blocks": 8,
+      "atimeMs": 1548989070083.6294,
+      "mtimeMs": 1548637557274.9092,
+      "ctimeMs": 1548637557275.375,
+      "birthtimeMs": 1548637557274.7708,
+      "atime": "2019-02-01T02:44:30.084Z",
+      "mtime": "2019-01-28T01:05:57.275Z",
+      "ctime": "2019-01-28T01:05:57.275Z",
+      "birthtime": "2019-01-28T01:05:57.275Z"
+    },
+    "edff172f-526b-5072-82ee-f856fa9b16c8": {
+      "id": "edff172f-526b-5072-82ee-f856fa9b16c8",
+      "children": [
+        "9f7b2fe0-d127-56d3-b06c-266eb16eef43"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "600483a41b1bf0851db75c68fd379523",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/summary/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/summary/index.md",
+      "relativePath": "summary/index.md",
+      "extension": "md",
+      "size": 541,
+      "prettySize": "541 B",
+      "modifiedTime": "2019-02-01T01:25:11.710Z",
+      "accessTime": "2019-02-01T01:25:13.373Z",
+      "changeTime": "2019-02-01T01:25:11.711Z",
+      "birthTime": "2019-02-01T01:25:11.710Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/summary",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "summary",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6570092,
+      "blocks": 8,
+      "atimeMs": 1548984313373.324,
+      "mtimeMs": 1548984311710.2468,
+      "ctimeMs": 1548984311710.7207,
+      "birthtimeMs": 1548984311710.0242,
+      "atime": "2019-02-01T01:25:13.373Z",
+      "mtime": "2019-02-01T01:25:11.710Z",
+      "ctime": "2019-02-01T01:25:11.711Z",
+      "birthtime": "2019-02-01T01:25:11.710Z"
+    },
+    "9e026ce6-2376-55a8-a8bb-10065bb1019f": {
+      "id": "9e026ce6-2376-55a8-a8bb-10065bb1019f",
+      "children": [
+        "fec3e5b6-4c06-5dd3-b88f-5a5dc877457b"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "17bd9b4d626a130c3e70483bde337128",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/education/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/education/index.md",
+      "relativePath": "education/index.md",
+      "extension": "md",
+      "size": 50,
+      "prettySize": "50 B",
+      "modifiedTime": "2019-01-28T01:05:57.277Z",
+      "accessTime": "2019-01-28T01:05:59.474Z",
+      "changeTime": "2019-01-28T01:05:57.277Z",
+      "birthTime": "2019-01-28T01:05:57.277Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/education",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "education",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6444653,
+      "blocks": 8,
+      "atimeMs": 1548637559474.4795,
+      "mtimeMs": 1548637557276.6863,
+      "ctimeMs": 1548637557277.106,
+      "birthtimeMs": 1548637557276.5916,
+      "atime": "2019-01-28T01:05:59.474Z",
+      "mtime": "2019-01-28T01:05:57.277Z",
+      "ctime": "2019-01-28T01:05:57.277Z",
+      "birthtime": "2019-01-28T01:05:57.277Z"
+    },
+    "b9a7ec56-f6d1-51a4-89de-c1704d5ec165": {
+      "id": "b9a7ec56-f6d1-51a4-89de-c1704d5ec165",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1b8e7699961a2aea97a5ac8f7d4f0694",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/pages/images/arrow-down.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images/arrow-down.png",
+      "relativePath": "images/arrow-down.png",
+      "extension": "png",
+      "size": 28010,
+      "prettySize": "28 kB",
+      "modifiedTime": "2019-01-23T02:31:59.000Z",
+      "accessTime": "2019-01-25T02:23:49.851Z",
+      "changeTime": "2019-01-23T02:32:27.555Z",
+      "birthTime": "2019-01-23T02:31:59.000Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images",
+      "base": "arrow-down.png",
+      "ext": ".png",
+      "name": "arrow-down",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6166667,
+      "blocks": 56,
+      "atimeMs": 1548383029851.0327,
+      "mtimeMs": 1548210719000,
+      "ctimeMs": 1548210747555.1377,
+      "birthtimeMs": 1548210719000,
+      "atime": "2019-01-25T02:23:49.851Z",
+      "mtime": "2019-01-23T02:31:59.000Z",
+      "ctime": "2019-01-23T02:32:27.555Z",
+      "birthtime": "2019-01-23T02:31:59.000Z"
+    },
+    "cb853e10-6257-58dd-be25-b54a6e10b9b2": {
+      "id": "cb853e10-6257-58dd-be25-b54a6e10b9b2",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "45140ce1eb5fe8d0caed749229873cca",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/pages/images/logo1.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images/logo1.png",
+      "relativePath": "images/logo1.png",
+      "extension": "png",
+      "size": 3528,
+      "prettySize": "3.53 kB",
+      "modifiedTime": "2019-01-21T17:42:44.000Z",
+      "accessTime": "2019-01-21T17:50:13.605Z",
+      "changeTime": "2019-01-21T17:50:11.823Z",
+      "birthTime": "2019-01-21T17:42:44.000Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images",
+      "base": "logo1.png",
+      "ext": ".png",
+      "name": "logo1",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6091335,
+      "blocks": 8,
+      "atimeMs": 1548093013605.2046,
+      "mtimeMs": 1548092564000,
+      "ctimeMs": 1548093011823.0574,
+      "birthtimeMs": 1548092564000,
+      "atime": "2019-01-21T17:50:13.605Z",
+      "mtime": "2019-01-21T17:42:44.000Z",
+      "ctime": "2019-01-21T17:50:11.823Z",
+      "birthtime": "2019-01-21T17:42:44.000Z"
+    },
+    "505cb8fd-a808-5445-a199-931affe7de87": {
+      "id": "505cb8fd-a808-5445-a199-931affe7de87",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0ba2aa20e2c2ce80e9a2db5b07198464",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/pages/images/logo2.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images/logo2.png",
+      "relativePath": "images/logo2.png",
+      "extension": "png",
+      "size": 32590,
+      "prettySize": "32.6 kB",
+      "modifiedTime": "2019-01-21T17:57:04.000Z",
+      "accessTime": "2019-01-21T17:59:28.528Z",
+      "changeTime": "2019-01-21T17:59:27.098Z",
+      "birthTime": "2019-01-21T17:57:04.000Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images",
+      "base": "logo2.png",
+      "ext": ".png",
+      "name": "logo2",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6092859,
+      "blocks": 64,
+      "atimeMs": 1548093568528.37,
+      "mtimeMs": 1548093424000,
+      "ctimeMs": 1548093567098.1465,
+      "birthtimeMs": 1548093424000,
+      "atime": "2019-01-21T17:59:28.528Z",
+      "mtime": "2019-01-21T17:57:04.000Z",
+      "ctime": "2019-01-21T17:59:27.098Z",
+      "birthtime": "2019-01-21T17:57:04.000Z"
+    },
+    "8cd25d3b-1beb-5b0f-b4f8-f30e010b315c": {
+      "id": "8cd25d3b-1beb-5b0f-b4f8-f30e010b315c",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "91a7c76b02b5442b7e2c3b1d1b3ea250",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/pages/images/logo4.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images/logo4.png",
+      "relativePath": "images/logo4.png",
+      "extension": "png",
+      "size": 6539,
+      "prettySize": "6.54 kB",
+      "modifiedTime": "2019-01-21T19:50:26.000Z",
+      "accessTime": "2019-01-21T19:51:49.306Z",
+      "changeTime": "2019-01-21T19:51:47.790Z",
+      "birthTime": "2019-01-21T19:50:26.000Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images",
+      "base": "logo4.png",
+      "ext": ".png",
+      "name": "logo4",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6096686,
+      "blocks": 16,
+      "atimeMs": 1548100309305.64,
+      "mtimeMs": 1548100226000,
+      "ctimeMs": 1548100307789.5562,
+      "birthtimeMs": 1548100226000,
+      "atime": "2019-01-21T19:51:49.306Z",
+      "mtime": "2019-01-21T19:50:26.000Z",
+      "ctime": "2019-01-21T19:51:47.790Z",
+      "birthtime": "2019-01-21T19:50:26.000Z"
+    },
+    "f01ed512-2788-56d6-ba61-8fa4dd65d384": {
+      "id": "f01ed512-2788-56d6-ba61-8fa4dd65d384",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "87dfb9b35a216fdbe30306076d53a70e",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/pages/images/logo3.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images/logo3.png",
+      "relativePath": "images/logo3.png",
+      "extension": "png",
+      "size": 45042,
+      "prettySize": "45 kB",
+      "modifiedTime": "2019-01-21T17:55:35.000Z",
+      "accessTime": "2019-01-28T00:53:35.256Z",
+      "changeTime": "2019-01-21T17:56:35.261Z",
+      "birthTime": "2019-01-21T17:55:35.000Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images",
+      "base": "logo3.png",
+      "ext": ".png",
+      "name": "logo3",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6092501,
+      "blocks": 88,
+      "atimeMs": 1548636815256.194,
+      "mtimeMs": 1548093335000,
+      "ctimeMs": 1548093395260.748,
+      "birthtimeMs": 1548093335000,
+      "atime": "2019-01-28T00:53:35.256Z",
+      "mtime": "2019-01-21T17:55:35.000Z",
+      "ctime": "2019-01-21T17:56:35.261Z",
+      "birthtime": "2019-01-21T17:55:35.000Z"
+    },
+    "c849700e-8dcb-517a-9795-ae3a7729fa3e": {
+      "id": "c849700e-8dcb-517a-9795-ae3a7729fa3e",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a5f0ee401cc4b4b1ecf7c2df973b8c89",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/pages/images/logo5.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images/logo5.png",
+      "relativePath": "images/logo5.png",
+      "extension": "png",
+      "size": 7680,
+      "prettySize": "7.68 kB",
+      "modifiedTime": "2019-01-21T19:51:04.000Z",
+      "accessTime": "2019-01-21T19:51:58.155Z",
+      "changeTime": "2019-01-21T19:51:55.966Z",
+      "birthTime": "2019-01-21T19:51:04.000Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images",
+      "base": "logo5.png",
+      "ext": ".png",
+      "name": "logo5",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6096685,
+      "blocks": 16,
+      "atimeMs": 1548100318155.1406,
+      "mtimeMs": 1548100264000,
+      "ctimeMs": 1548100315965.8816,
+      "birthtimeMs": 1548100264000,
+      "atime": "2019-01-21T19:51:58.155Z",
+      "mtime": "2019-01-21T19:51:04.000Z",
+      "ctime": "2019-01-21T19:51:55.966Z",
+      "birthtime": "2019-01-21T19:51:04.000Z"
+    },
+    "482b46c2-bfb8-5232-9d27-99f2fadc7b59": {
+      "id": "482b46c2-bfb8-5232-9d27-99f2fadc7b59",
+      "children": [],
+      "parent": "ed03764f-3f6c-514e-81b4-feb87b330d84",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "495955204b758f3f59030e10cbb063d7",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Work",
+        "date": "01-27-2019",
+        "_PARENT": "ed03764f-3f6c-514e-81b4-feb87b330d84"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/work/index.md"
+    },
+    "9f7b2fe0-d127-56d3-b06c-266eb16eef43": {
+      "id": "9f7b2fe0-d127-56d3-b06c-266eb16eef43",
+      "children": [],
+      "parent": "edff172f-526b-5072-82ee-f856fa9b16c8",
+      "internal": {
+        "content": "I'm a full stack software engineer who enjoys building web applications and playing with different \nframeworks and technologies. I've worked on creating user interfaces to shows hierarchical structures, geo spatial \nstructures, server side components and integrating them with RESTful web-services. I like to explore and embrace new \ntechnologies like GraphQL, ES6, ReactJS and Serverless.\nI've challenged myself with problems of scaling web applications and minimizing the operational cost.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "f7d7fab74d8aabaa2cda93825c93d2c4",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Summary",
+        "date": "01-27-2019",
+        "_PARENT": "edff172f-526b-5072-82ee-f856fa9b16c8"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "I'm a full stack software engineer who enjoys building web applications and playing with different \nframeworks and technologies. I've worked on creating user interfaces to shows hierarchical structures, geo spatial \nstructures, server side components and integrating them with RESTful web-services. I like to explore and embrace new \ntechnologies like GraphQL, ES6, ReactJS and Serverless.\nI've challenged myself with problems of scaling web applications and minimizing the operational cost.\n",
+      "fileAbsolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/summary/index.md"
+    },
+    "fec3e5b6-4c06-5dd3-b88f-5a5dc877457b": {
+      "id": "fec3e5b6-4c06-5dd3-b88f-5a5dc877457b",
+      "children": [],
+      "parent": "9e026ce6-2376-55a8-a8bb-10065bb1019f",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "aa678e2831a47cbe653b7c62211145b6",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Education",
+        "date": "01-27-2019",
+        "_PARENT": "9e026ce6-2376-55a8-a8bb-10065bb1019f"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/education/index.md"
+    },
+    "f448c642-2cca-5cc0-82ac-9b1d11b7be71": {
+      "id": "f448c642-2cca-5cc0-82ac-9b1d11b7be71",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "da8a433f0041e61dbbe8702e46c34232",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/pages/images/image6.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images/image6.jpg",
+      "relativePath": "images/image6.jpg",
+      "extension": "jpg",
+      "size": 989089,
+      "prettySize": "989 kB",
+      "modifiedTime": "2019-01-21T00:21:31.000Z",
+      "accessTime": "2019-01-28T00:53:35.256Z",
+      "changeTime": "2019-01-21T00:23:40.166Z",
+      "birthTime": "2019-01-21T00:21:31.000Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images",
+      "base": "image6.jpg",
+      "ext": ".jpg",
+      "name": "image6",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5982740,
+      "blocks": 1936,
+      "atimeMs": 1548636815256.095,
+      "mtimeMs": 1548030091000,
+      "ctimeMs": 1548030220166.1572,
+      "birthtimeMs": 1548030091000,
+      "atime": "2019-01-28T00:53:35.256Z",
+      "mtime": "2019-01-21T00:21:31.000Z",
+      "ctime": "2019-01-21T00:23:40.166Z",
+      "birthtime": "2019-01-21T00:21:31.000Z"
+    },
+    "0760f8d2-484c-5aaf-b36f-f22e8a8d6ddc": {
+      "id": "0760f8d2-484c-5aaf-b36f-f22e8a8d6ddc",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d42231ff8133f8766808bd3e5e4876c2",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/pages/images/image5.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images/image5.jpg",
+      "relativePath": "images/image5.jpg",
+      "extension": "jpg",
+      "size": 1507603,
+      "prettySize": "1.51 MB",
+      "modifiedTime": "2019-01-23T02:22:35.000Z",
+      "accessTime": "2019-01-28T00:53:35.256Z",
+      "changeTime": "2019-01-23T02:23:11.354Z",
+      "birthTime": "2019-01-23T02:22:35.000Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images",
+      "base": "image5.jpg",
+      "ext": ".jpg",
+      "name": "image5",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6165379,
+      "blocks": 2952,
+      "atimeMs": 1548636815256.057,
+      "mtimeMs": 1548210155000,
+      "ctimeMs": 1548210191353.5615,
+      "birthtimeMs": 1548210155000,
+      "atime": "2019-01-28T00:53:35.256Z",
+      "mtime": "2019-01-23T02:22:35.000Z",
+      "ctime": "2019-01-23T02:23:11.354Z",
+      "birthtime": "2019-01-23T02:22:35.000Z"
+    },
+    "07514ae3-2a13-5cc2-be87-a0e6c1d9163e": {
+      "id": "07514ae3-2a13-5cc2-be87-a0e6c1d9163e",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f0e9aec889a6d513a52a8e5308aa541f",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/pages/images/image1.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images/image1.jpg",
+      "relativePath": "images/image1.jpg",
+      "extension": "jpg",
+      "size": 4914207,
+      "prettySize": "4.91 MB",
+      "modifiedTime": "2019-01-20T22:03:20.000Z",
+      "accessTime": "2019-01-28T00:53:35.256Z",
+      "changeTime": "2019-01-20T22:26:18.399Z",
+      "birthTime": "2019-01-20T22:03:20.000Z",
+      "root": "/",
+      "dir": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/images",
+      "base": "image1.jpg",
+      "ext": ".jpg",
+      "name": "image1",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5972135,
+      "blocks": 9600,
+      "atimeMs": 1548636815256.022,
+      "mtimeMs": 1548021800000,
+      "ctimeMs": 1548023178398.9731,
+      "birthtimeMs": 1548021800000,
+      "atime": "2019-01-28T00:53:35.256Z",
+      "mtime": "2019-01-20T22:03:20.000Z",
+      "ctime": "2019-01-20T22:26:18.399Z",
+      "birthtime": "2019-01-20T22:03:20.000Z"
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "23f512ca-281f-5b86-9cf4-b2e5ec4d8999",
+      "pluginCreatorId": "23f512ca-281f-5b86-9cf4-b2e5ec4d8999",
+      "componentPath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "31fde07536fe1670cac52e8ab3aadeb8",
+        "description": "23f512ca-281f-5b86-9cf4-b2e5ec4d8999",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "9aa70c8081a97694b698401fb024435a"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/"
+      ],
+      "b9a7ec56-f6d1-51a4-89de-c1704d5ec165": [
+        "/"
+      ],
+      "0760f8d2-484c-5aaf-b36f-f22e8a8d6ddc": [
+        "/"
+      ],
+      "cb853e10-6257-58dd-be25-b54a6e10b9b2": [
+        "/"
+      ],
+      "505cb8fd-a808-5445-a199-931affe7de87": [
+        "/"
+      ],
+      "f01ed512-2788-56d6-ba61-8fa4dd65d384": [
+        "/"
+      ],
+      "8cd25d3b-1beb-5b0f-b4f8-f30e010b315c": [
+        "/"
+      ],
+      "c849700e-8dcb-517a-9795-ae3a7729fa3e": [
+        "/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/"
+      ],
+      "File": [
+        "/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "third-post-f99": "607/path---third-post-f-99-5fb-YGwyCTPpikt6Qt9DEP0I6DRzaV4",
+    "index": "186/path---index-6a9-BcUqqwe0ItXjJKoNgBSCp7ndxs",
+    "first-post-eb4": "130/path---first-post-eb-4-4f5-XXUyO6jffMfERSgiZX1kIENbcMg",
+    "sq--src-components-header-js": 2862553537,
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "fourth-post-a56": "716/path---fourth-post-a-56-681-DRb5CFf8fPI58885hI5cFRIzrQY",
+    "second-post-da0": "42/path---second-post-da-0-248-QW3ftT47P9I4sPCigSsJM3EZlw",
+    "app-946": "788/path---app-946-524-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sub-title-2d8": "970/path---sub-title-2-d-8-b3a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "badges-45e": "330/path---badges-45-e-5dc-NZuapzHg3X9TaN1iIixfv1W23E",
+    "subtitle-sub-title-530": "941/path---subtitle-sub-title-530-d99-NZuapzHg3X9TaN1iIixfv1W23E",
+    "subtitle-sub-title-view-0ab": "222/path---subtitle-sub-title-view-0-ab-dc7-NZuapzHg3X9TaN1iIixfv1W23E",
+    "subtitle-f7c": "180/path---subtitle-f-7-c-9b1-NZuapzHg3X9TaN1iIixfv1W23E",
+    "constants-constants-3a9": "835/path---constants-constants-3-a-9-404-NZuapzHg3X9TaN1iIixfv1W23E",
+    "badges-badges-1c3": "881/path---badges-badges-1-c-3-49d-NZuapzHg3X9TaN1iIixfv1W23E",
+    "badges-badges-view-18a": "281/path---badges-badges-view-18-a-b83-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/index.js": {
+      "query": "query usersRachitabansalWebstormProjectsPortfolioBansalrachitaGithubIoMyPortfolioSrcPagesIndexJs96434719 {\n  url: allFile(filter: {name: {eq: \"arrow-down\"}}) {\n    edges {\n      node {\n        publicURL\n      }\n    }\n  }\n  thumbNail: allFile(filter: {name: {eq: \"image5\"}}) {\n    edges {\n      node {\n        publicURL\n      }\n    }\n  }\n  logos: allFile(sort: {fields: name}, filter: {name: {regex: \"/logo[0-9].*/\"}}) {\n    edges {\n      node {\n        publicURL\n      }\n    }\n  }\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___title]}) {\n    edges {\n      node {\n        id\n        html\n        frontmatter {\n          title\n        }\n        excerpt(truncate: false)\n      }\n    }\n  }\n  site {\n    siteMetadata {\n      defaultTitle: title\n      defaultDescription: description\n      defaultImage: image\n      siteUrl: url\n    }\n  }\n}\n",
+      "componentPath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/src/pages/index.js"
+    },
+    "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/rachitabansal/WebstormProjects/portfolio/bansalrachita.github.io/my-portfolio/.cache/dev-404-page.js"
+    }
+  },
+  "staticQueryComponents": {}
+}
