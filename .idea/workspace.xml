@@ -2,304 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1449508-3e6a-4fd7-ab3e-e1c78fdf20ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/4-f349640c48939f8145ea.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/4-f349640c48939f8145ea.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-0313ceba17758b1c9722.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-0313ceba17758b1c9722.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-1afe3cb64f4abea91348.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-1afe3cb64f4abea91348.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-20c051af4409e6b2a353.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-20c051af4409e6b2a353.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-32d90dfb950c89afd4b1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-32d90dfb950c89afd4b1.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-35b8207171d4f7000d5d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-35b8207171d4f7000d5d.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-3bc4a556d8653039c48e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-3bc4a556d8653039c48e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-74817e624aee2b6b57c0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-74817e624aee2b6b57c0.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-74cc5879c8fabaa039e8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-74cc5879c8fabaa039e8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-7526b97d6c30b58b93a4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-7526b97d6c30b58b93a4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-a420c304518b244fd981.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-a420c304518b244fd981.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-b5601ecb3f699fe82ff5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-b5601ecb3f699fe82ff5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-ba4909f3bd74f2ac7f96.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-ba4909f3bd74f2ac7f96.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-c4363b6de7d0ac6d5d7a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-c4363b6de7d0ac6d5d7a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app.802279da2062b8e051e7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-app-js-11437304bb9d7cf98a20.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-app-js-11437304bb9d7cf98a20.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-app-js-268237b30d198205c1a9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-app-js-268237b30d198205c1a9.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-app-js-97e7e26df407125de4f0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-app-js-97e7e26df407125de4f0.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-app-js-e1f9767865aab9f524c8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-app-js-e1f9767865aab9f524c8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-028e7f07445aa2bd9cf4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-028e7f07445aa2bd9cf4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-03b3845e7f790e8e7fd9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-03b3845e7f790e8e7fd9.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-1fb4556f6026614979fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-1fb4556f6026614979fa.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-30382f9891575e578d4a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-30382f9891575e578d4a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-30cd7e88b5d7d9861c6e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-30cd7e88b5d7d9861c6e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-3369b6c767661bffe959.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-3369b6c767661bffe959.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-435e0d11de06b52269e0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-435e0d11de06b52269e0.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-4c2a113bec315b8e576a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-4c2a113bec315b8e576a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-52f56399a9553c31faac.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-52f56399a9553c31faac.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-54f489166744aa602764.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-54f489166744aa602764.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-5b9897d70e69eea3aa6f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-5b9897d70e69eea3aa6f.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-5cc14de5315bf76c749c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-5cc14de5315bf76c749c.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-70c4b38d6afe19857fcb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-70c4b38d6afe19857fcb.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-7b4cf63ffdecc4337c2c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-7b4cf63ffdecc4337c2c.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-7b852be833d4fa92ce3a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-7b852be833d4fa92ce3a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-7bf2fb8f253de5075d83.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-7bf2fb8f253de5075d83.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-8b183194719689c989c9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-8b183194719689c989c9.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-92abd2f38c95f9b5ff59.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-92abd2f38c95f9b5ff59.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-94cb363ce08527d800f1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-94cb363ce08527d800f1.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-974f9417cb7949f880bc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-974f9417cb7949f880bc.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-bc7325e309d7e571c0b6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-bc7325e309d7e571c0b6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-dbea94e35152ae98ad55.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-dbea94e35152ae98ad55.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-e1da68a87bd242c55f3e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-e1da68a87bd242c55f3e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-e62bd6fc9a56fe1f40b1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-e62bd6fc9a56fe1f40b1.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-f5c66bdbbcd6ec5a5be7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-f5c66bdbbcd6ec5a5be7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-f7c8d76e5f4a25eeea1e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-f7c8d76e5f4a25eeea1e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-fcc3fd10f83d382614c6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-fcc3fd10f83d382614c6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-ff73d3454bb732e78ec9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-ff73d3454bb732e78ec9.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-posts-js-4a325358a457d3807d66.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-posts-js-4a325358a457d3807d66.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-posts-js-8b3b0c037efce4d1bc63.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-posts-js-8b3b0c037efce4d1bc63.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-19250c65daf18a0f2b8a77582931afa3.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-19250c65daf18a0f2b8a77582931afa3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-2891e1339ba06927d52c74aaee62ef1b.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-2891e1339ba06927d52c74aaee62ef1b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-ba9c1bc4aaa9432fe2a48a38de4e5244.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-ba9c1bc4aaa9432fe2a48a38de4e5244.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-ef16ccd4da88e8c1ae704fb6642f907c.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-ef16ccd4da88e8c1ae704fb6642f907c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/pages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux-state.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux-state.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-00d586387b5c3a7f7dc6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-00d586387b5c3a7f7dc6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-04eeb81770a73aa7be49.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-04eeb81770a73aa7be49.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-08661c86efd3dee6d4d4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-08661c86efd3dee6d4d4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-2a2697769532b6742eb1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-2a2697769532b6742eb1.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-379a7eb712babf5c1e29.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-379a7eb712babf5c1e29.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-386ca8d6772ea70ab515.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-386ca8d6772ea70ab515.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-78438e5e57e9c15988dd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-78438e5e57e9c15988dd.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-a1d69e8ad52d0972b417.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-a1d69e8ad52d0972b417.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-ab9bbde84db57539ea66.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-ab9bbde84db57539ea66.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-b830828a323e23449aaa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-b830828a323e23449aaa.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-c631a70056cf90193d56.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-c631a70056cf90193d56.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-c72c00f82676a8dc96cf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-c72c00f82676a8dc96cf.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-f5bc734f2258f675b0ad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-f5bc734f2258f675b0ad.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-f6195c1be25a6b8bfb25.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-f6195c1be25a6b8bfb25.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-f9c8525797dfa3fbd848.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages-manifest-f9c8525797dfa3fbd848.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/2000px-Npm-logo.svg-91a7c76b02b5442b7e2c3b1d1b3ea250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/Twitter_Bird.svg-87dfb9b35a216fdbe30306076d53a70e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/render-page.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/arrow-down-1b8e7699961a2aea97a5ac8f7d4f0694.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/117/path---index-6a9-uYQhNQoVcsGEJ5YlzrvgWoexap0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/130/path---first-post-eb-4-4f5-XXUyO6jffMfERSgiZX1kIENbcMg.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/162/path---fourth-post-a-56-681-SU17xgs6Gj8SaXOsRSgQJSMr4qo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/180/path---subtitle-f-7-c-9b1-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/182/path---index-6a9-sM7oJZf9okTjbZZQzUEC4ROc96g.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/185/path---index-6a9-SVLEIsWd3AhBhwAEscBCABaagfQ.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/d/186/path---index-6a9-BcUqqwe0ItXjJKoNgBSCp7ndxs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/190/path---second-post-da-0-248-cDygbP3kczJJvzay0UPEfDcTGk4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/195/path---index-6a9-KHTdhvKu4WWaX2pclJOkD68J8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/214/path---index-6a9-YAaKLXf4f7AXt1Fk9vWYmwnGIQ.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/222/path---subtitle-sub-title-view-0-ab-dc7-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/23/path---index-6a9-FzceWyQAh0e0C31b4wJCrcALWsA.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/236/path---third-post-f-99-5fb-4LDPOVmWes181Ss6hr4rEgO8Tck.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/258/path---second-post-da-0-248-KBVSPwOnmWVSJlK4kou1lDuNqQw.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/261/path---index-6a9-gcaCL5aItIKBuq3OnmHFJsUMp4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/275/path---third-post-f-99-5fb-y9OJV9OS3tQH9XwUNBFlPZJXNo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/281/path---badges-badges-view-18-a-b83-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/2862553537.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/287/path---index-6a9-wmQzkBLvzA2XLv0EmPPOS1BjPg.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/294/path---fourth-post-a-56-681-k8HjN68RSBZnuSZZ56yX6v6aA.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/330/path---badges-45-e-5dc-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/341/path---index-6a9-MlayEQhbzykbOKSQa3eZuJsZLH4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/346/path---index-6a9-2NYcuEv5MSlcvv0rnQG7y7sko.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/346/path---index-6a9-Rp9jRljL22I5gDe10aGuwh8jkLk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/369/path---index-6a9-zrNyhVorVua7sEHnQ2RvFmC3Xw.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/372/path---index-6a9-HN2WkO0aZgDaU9FZuFO8AFDg.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/381/path---fourth-post-a-56-681-F9JeaokaVFlpXUIaBPBg3mofrTo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/407/path---index-6a9-PNa9pOxctVvc2RQfOvZn2GT6VY.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/411/path---index-6a9-qwMuNkw7OiczNJrUiNp7OY7kfqk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/418/path---index-6a9-OmsRe5RkvWgSDIZPZQXvR7skQA.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/419/path---index-6a9-ypbeswpCPccq9t8LsZaZeME09R0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/42/path---second-post-da-0-248-QW3ftT47P9I4sPCigSsJM3EZlw.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/427/path---index-6a9-HDm5FvfuyvuQz2cD30vr7govc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/461/path---index-6a9-ufVUF0izhmkbXTwTEUrjOij2DeY.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/465/path---index-6a9-XMOYATGGlVqm3Zx5WAKfJOLC88.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/492/path---index-6a9-DisNTV81Vsml8ixTkQjAbB7PREY.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/496/path---third-post-f-99-5fb-GNxYOQLINRRTKk3SOP6em6RACU8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/498/path---index-6a9-jVK2mv8ViUv7XCJ8AZgbpf46NRc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/519/path---first-post-eb-4-4f5-oCMVKOjgUgksYaGkO01ItT3q0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/528/path---index-6a9-2bIvQzcyCtNpQ4CpnvUBAHprvuY.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/54/path---second-post-da-0-248-awn1muD4kijfOsOMRZMxmGnrw.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/542/path---index-6a9-nem4qb0ln8by9bHf1tFuQg8s.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/551/path---index-6a9-96KzHGnNS8Oh9d53tvzgVcUzCk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/563/path---index-6a9-OPHL1dJ3R8D6GmiwCihp02Vc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/569/path---fourth-post-a-56-681-MswP4eSTorQrXgUrDjWGmTQuSTY.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/585/path---index-6a9-gYkKJiSYihQPHdDTOsNNb3wfAw.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/589/path---index-6a9-JyaRS0jbzOtAYyrp2UU8mnuHdQ.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/607/path---third-post-f-99-5fb-YGwyCTPpikt6Qt9DEP0I6DRzaV4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/625/path---index-6a9-7wQlvFu8iVtpD1hkCQLrN0lYw.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/678/path---index-6a9-wbMVlyQfTqTneL8WXKqQS0D8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/681/path---index-6a9-SaqIB146hJ6V259spZfFFDfmw.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/681/path---index-6a9-tQ9F9CR29oXxTc4N1hx8cTPIWA.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/690/path---index-6a9-cCCw6oEzCX6glUh3IuVwx5r9t0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/697/path---index-6a9-ZeTL1hP3NsKuUBNruFMv3RKK0Sg.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/716/path---fourth-post-a-56-681-DRb5CFf8fPI58885hI5cFRIzrQY.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/738/path---first-post-eb-4-4f5-E26jqa9hbtuTQWzrDMGQhoK5eM.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/754/path---index-6a9-ueLiSdq6CJgQmpwCZVDTCwzav3I.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/788/path---app-946-524-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/799/path---index-6a9-uVBY1yUCObiSxnQPYPoKGg3QQKI.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/799/path---third-post-f-99-5fb-4LxzlHtCqRkwHbEmKss6Vsb4Dd8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/809/path---first-post-eb-4-4f5-DTTLHTpdr0vj4dr3CCV3gCnQovU.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/818/path---index-6a9-FpLvFjFvIXeiVsQn02vKSml4Ig4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/832/path---index-6a9-xlbIcYVxGt6lidjyO3CQyED9zQ.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/835/path---constants-constants-3-a-9-404-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/858/path---index-6a9-FIm9ph9gFGhcGl9hCCZG7KACwVM.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/861/path---index-6a9-8iUnN23iYKtwqj2V3KDxlEEsIQ.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/866/path---index-6a9-2G7W7OuKPzNZbmkfITu2mN99g.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/881/path---badges-badges-1-c-3-49d-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/89/path---second-post-da-0-248-zPtuoADmDBhQPF4NUW44CMbvNU.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/d/920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/934/path---index-6a9-fkw1Ajj2RcTUqYJnXzCo10jhTs4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/935/path---index-6a9-jmDNBk0HMMhsgeZlBNxo8Bsqus.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/941/path---subtitle-sub-title-530-d99-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/962/path---first-post-eb-4-4f5-ZX0iYZaklBVwWc7JnfZ3nBlLI40.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d/970/path---sub-title-2-d-8-b3a-NZuapzHg3X9TaN1iIixfv1W23E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/dribbble-icon-9-a5f0ee401cc4b4b1ecf7c2df973b8c89.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/image1-f0e9aec889a6d513a52a8e5308aa541f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/image2-7a5ea3a45a66da42b481411e8503e1ab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/image3-7d226b51c58b98326ebec0f7c0b02b74.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/image4-29b03de0416e759547550ad210858989.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/image5-72ef4b8da0d8b81acce42d52cfecb679.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/image5-80c6bf341b3a61f5fd159fbe154a125c.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/image5-80c6bf341b3a61f5fd159fbe154a125c.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/image5-d42231ff8133f8766808bd3e5e4876c2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/image6-957ac694827ed32e0440b65a64703b2b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/image6-da8a433f0041e61dbbe8702e46c34232.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/index-02633c69425ac3262e965a72e20975af.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/index-18f7d88eb078199e232a845a7c453c2e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/index-44ca04a3060e75b2e5d0853a9c04c87c.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/index-6628be006a54f0d8893a99a10301ae8a.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/index-914455dc3c46b0d7b91b16d28c73cf58.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/index-99e57f56ac0ab9e727dc4452a0ce90b7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/index-f0427c977a9f4daf5d3bb2abef61b2e9.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/logo1-45140ce1eb5fe8d0caed749229873cca.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/logo2-0ba2aa20e2c2ce80e9a2db5b07198464.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/logo2-3b51134cdadadd16640fbf67478faa5f.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/logo3-87dfb9b35a216fdbe30306076d53a70e.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/logo4-91a7c76b02b5442b7e2c3b1d1b3ea250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/logo4-ab10c5c5337fe448dc8e9f30cea9fbaa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/logo5-9beb4a460c9cb66a9816df1d03ef83e1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/logo5-a5f0ee401cc4b4b1ecf7c2df973b8c89.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/medium-45140ce1eb5fe8d0caed749229873cca.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-033c3d36d25a14accaad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-033c3d36d25a14accaad.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-0bf6b44477c15c33f502.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-0bf6b44477c15c33f502.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-1874723df36419a8811a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-1874723df36419a8811a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-1f417aa4c7985e0a0e9f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-1f417aa4c7985e0a0e9f.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-28b0c4ea7c76d42bed31.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-28b0c4ea7c76d42bed31.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-3384fdb792b687b18440.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-3384fdb792b687b18440.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-3b3fc5a67b3bc1ead47e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-3b3fc5a67b3bc1ead47e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-3bfbea6ecd95d6dc86e6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-3bfbea6ecd95d6dc86e6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-3cd2cb5e42d3c3630cba.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-3cd2cb5e42d3c3630cba.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-415f0b47b6a7a9b03db7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-415f0b47b6a7a9b03db7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-45dc59b9b2ab97342d2b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-45dc59b9b2ab97342d2b.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-4f0361ae63e4895bd1fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-4f0361ae63e4895bd1fa.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-53241c6146a9201bb3cb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-53241c6146a9201bb3cb.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-57c03bb061b0bb0e0956.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-57c03bb061b0bb0e0956.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-6383d346e3a804b19d9d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-6383d346e3a804b19d9d.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-67eecabe79c1346cf11b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-67eecabe79c1346cf11b.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-6ad65e93c7c5e9ce753a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-6ad65e93c7c5e9ce753a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-6b4b8f2f12eca0a2efc3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-6b4b8f2f12eca0a2efc3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-7e1ee8c22dbccece854c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-7e1ee8c22dbccece854c.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-a53ea81543fe54c625f9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-a53ea81543fe54c625f9.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-abdd700219fe6c86c649.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-abdd700219fe6c86c649.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-b2d1657585518c8e0fd2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-b2d1657585518c8e0fd2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-c4ae5346ab1c0139f817.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-c4ae5346ab1c0139f817.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-c6bcd92565cc34ccadc5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-c6bcd92565cc34ccadc5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-c8a7ad50fa4025bba48f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-c8a7ad50fa4025bba48f.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-c8c7ccf0477efe979e90.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-c8c7ccf0477efe979e90.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-d1c846f37bb8ad57db00.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-d1c846f37bb8ad57db00.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-d785d36c20fe4b5f4817.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-d785d36c20fe4b5f4817.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-e45f51bca2d980c2322b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-e45f51bca2d980c2322b.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-fb97a4fe5ec0f9232196.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-fb97a4fe5ec0f9232196.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -566,12 +288,12 @@
       <workItem from="1547776226947" duration="36503000" />
       <workItem from="1548209788385" duration="4902000" />
       <workItem from="1548383178666" duration="29095000" />
-      <workItem from="1548988762140" duration="1174000" />
+      <workItem from="1548988762140" duration="1409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71674000" />
+    <option name="totallyTimeSpent" value="71909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
