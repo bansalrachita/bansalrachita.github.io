@@ -21,9 +21,8 @@ const WorkView = ({work}) => {
             <hr/>
             <h3>Boston Children's Hospital, <small>Dec 2015</small></h3>
             <p>
-                I Interned here during 2015 and was migrating from Sybase to SQL Server & JScript
-                application for keeping Biobank data.
-                I worked on data modeling, design and development of user interface, SQL scripts &
+                I was tasked with data migration of Sybase ASA DB to MS-SQL Server & implementation of user interface in JScript.
+                I worked on Snow flake data modeling, design and development of user interface, SQL scripts &
                 stored procedure in T-SQL.
             </p>
             <Badges badges={workBadges[1]}/>
