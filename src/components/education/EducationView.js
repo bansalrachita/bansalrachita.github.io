@@ -16,7 +16,7 @@ const EducationView = () => {
                 M.S. in Information Systems, Northeastern University
             </h3>
             <p>
-                Here, I got the opportunity to work on various technologies and with people from different
+                I got an opportunity to work on various technologies and with people from different
                 backgrounds. Here are links to more interesting projects I did-
             </p>
             <ul>
