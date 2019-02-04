@@ -28,7 +28,8 @@ h5{
     font-family: "Trebuchet MS", "Palatino", "Droid Serif", "serif";
     background: no-repeat fixed center center;
     background-size: cover;
-    color: rgb(56, 50, 84);
+    /*color: rgb(56, 50, 84);*/
+    color: #314659;
 }
 .summary{
     margin: 31vh 0 31vh 0;
