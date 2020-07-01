@@ -14,15 +14,18 @@
   },
   "dependencies": {
     "acorn": "^6.4.1",
+    "babel-plugin-styled-components": "^1.10.7",
     "gatsby": "^2.0.76",
     "gatsby-plugin-react-helmet": "^3.0.5",
+    "gatsby-plugin-styled-components": "^3.3.6",
     "gatsby-source-filesystem": "^2.3.14",
     "gatsby-transformer-remark": "^2.8.19",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^6.1.0",
     "react-refresh": "^0.8.3",
-    "serve": "^11.3.2"
+    "serve": "^11.3.2",
+    "styled-components": "^5.1.1"
   },
   "repository": {
     "type": "git",
