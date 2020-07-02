@@ -1,5 +1,4 @@
 import React from 'react';
-import '../../common/main.css';
 
 const Summary = ({ summary }) => {
   return (

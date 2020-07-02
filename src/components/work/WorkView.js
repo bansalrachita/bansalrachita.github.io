@@ -1,7 +1,6 @@
 import Badges from '../badges/Badges';
 import React from 'react';
 import { workBadges } from '../../constants/constants';
-import '../../common/main.css';
 
 const WorkView = ({ work }) => {
   return (

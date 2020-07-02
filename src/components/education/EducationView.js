@@ -1,7 +1,6 @@
 import { projectLinks, undergradBadges } from '../../constants/constants';
 import Badges from '../badges/Badges';
 import React from 'react';
-import '../../common/main.css';
 import { eduBadges } from '../../constants/constants';
 
 const EducationView = () => {
