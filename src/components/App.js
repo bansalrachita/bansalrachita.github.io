@@ -1,13 +1,12 @@
 import React from 'react';
 import { Home } from './home/Home';
-import { GlobalStyle } from './app.styles';
+import { ThemeContextProvider } from './theme';
 
 const App = () => {
   return (
-    <>
-      <GlobalStyle />
+    <ThemeContextProvider>
       <Home />
-    </>
+    </ThemeContextProvider>
   );
 };
 export default App;
