@@ -1,6 +1,8 @@
 import React from 'react';
 import { ThemeProvider } from 'styled-components';
 import { GlobalStyle } from '../AppStyles';
+import { PropTypes } from 'prop-types';
+
 // Define theme here
 const theme = {
   colors: {
@@ -24,4 +26,8 @@ export const Theme = ({ children }) => {
       <ThemeProvider theme={theme}>{children}</ThemeProvider>
     </>
   );
+};
+
+Theme.propTypes = {
+  children: PropTypes.object,
 };
