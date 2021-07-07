@@ -1,4 +1,4 @@
 ---
-"title": "Education"
-"date" : "01-27-2019"
+'title': 'Education'
+'date': '01-27-2019'
 ---

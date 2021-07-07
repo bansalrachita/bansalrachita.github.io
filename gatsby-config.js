@@ -1,20 +1,12 @@
 module.exports = {
-    pathPrefix: "/",
-	siteMetadata: {
-		title: "My Website",
-		description: "This is my official website",
-        url:"https://bansalrachita.github.io/",
-        image: "/pages/images/image5.jpg"
-	},
-	plugins: [
-		"gatsby-transformer-remark",
-        "gatsby-plugin-react-helmet",
-		{ 
-			resolve: "gatsby-source-filesystem",
-			options: {
-				name: "pages",
-				path: `${__dirname}/src/pages`
-			}
-		}
-	]
+  siteMetadata: {
+    title: `Rachita Bansal`,
+    titleTemplate: '%s · just another software Engineer',
+    blogTitleTemplate: '%s · By Rachita Bansal',
+    url: 'https://bansalrachita.github.io',
+    siteUrl: 'https://bansalrachita.github.io',
+    description: "Rachita's Home Page.",
+    image: '',
+    twitterUsername: '@bansalrachita',
+  },
 };
